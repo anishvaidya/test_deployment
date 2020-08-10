@@ -1,7 +1,7 @@
 # This is a simple tutorial to guide hosting of a react app on GitHub pages.
 
 ## To run the app locally: **npm run**
-## To run the app locally: **npm run deploy**
+## To deploy the app: **npm run deploy**
 
 ## Steps:
 
