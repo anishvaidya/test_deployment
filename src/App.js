@@ -8,15 +8,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          This is just a sample showing how a React app can be hosted using GitHub pages. Please refer the README for detailed information.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/anishvaidya/test_deployment"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          See steps
         </a>
       </header>
     </div>
