@@ -1,6 +1,7 @@
 # This is a simple tutorial to guide hosting of a react app on GitHub pages.
 
 ## To run the app locally: **npm run**
+## To run the app locally: **npm run deploy**
 
 ## Steps:
 
@@ -25,7 +26,7 @@
     git commit -m "Just checking my deployment"
     git push origin master
     ```
-- Publish the app using: npm run deploy. You can see a new branch named gh-pages has been automatically created. It might take a few minutes for the latest version of the app to be deployed on the server.
+- Publish the app using: **npm run deploy**. You can see a new branch named gh-pages has been automatically created. It might take a few minutes for the latest version of the app to be deployed on the server.
 
 ### I hope this guide helps you in deploying your React apps on GitHub. Please feel free to fork this repo and add possible hosting solutions for apps using other frameworks like Angular.
 
