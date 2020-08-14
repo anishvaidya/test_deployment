@@ -11,7 +11,7 @@
 - Set-up GH pages:
     - Add the following lines in your package.json file:
         ```
-        "http://{username}.github.io/{repo-name}"  
+        "homepage": "http://{username}.github.io/{repo-name}"  
         "scripts": {
         //...
         "predeploy": "npm run build",
